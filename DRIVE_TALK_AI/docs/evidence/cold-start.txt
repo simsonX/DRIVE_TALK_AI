@@ -1,0 +1,7 @@
+Starting: Intent { cmp=ai.drivetalk/.MainActivity }
+Status: ok
+LaunchState: COLD
+Activity: ai.drivetalk/.MainActivity
+TotalTime: 941
+WaitTime: 943
+Complete

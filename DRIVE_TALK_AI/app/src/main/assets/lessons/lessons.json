@@ -1,0 +1,434 @@
+[
+  {
+    "id": "business-beginner-01",
+    "category": "business",
+    "level": "beginner",
+    "expression": "meeting",
+    "english": "I have a meeting today.",
+    "korean": "오늘 회의가 있어요."
+  },
+  {
+    "id": "business-beginner-02",
+    "category": "business",
+    "level": "beginner",
+    "expression": "report",
+    "english": "Please send me the report.",
+    "korean": "보고서를 보내 주세요."
+  },
+  {
+    "id": "business-beginner-03",
+    "category": "business",
+    "level": "beginner",
+    "expression": "help",
+    "english": "Can you help me with this task?",
+    "korean": "이 업무를 도와주실 수 있나요?"
+  },
+  {
+    "id": "business-beginner-04",
+    "category": "business",
+    "level": "beginner",
+    "expression": "deadline",
+    "english": "The deadline is Friday.",
+    "korean": "마감일은 금요일이에요."
+  },
+  {
+    "id": "business-beginner-05",
+    "category": "business",
+    "level": "beginner",
+    "expression": "schedule",
+    "english": "Let us check the schedule.",
+    "korean": "일정을 확인해 봅시다."
+  },
+  {
+    "id": "business-beginner-06",
+    "category": "business",
+    "level": "beginner",
+    "expression": "update",
+    "english": "Do you have any updates?",
+    "korean": "새로운 소식이 있나요?"
+  },
+  {
+    "id": "business-intermediate-01",
+    "category": "business",
+    "level": "intermediate",
+    "expression": "meeting",
+    "english": "I have a meeting scheduled with my manager this afternoon.",
+    "korean": "오늘 오후에 매니저와 회의가 잡혀 있어요."
+  },
+  {
+    "id": "business-intermediate-02",
+    "category": "business",
+    "level": "intermediate",
+    "expression": "report",
+    "english": "Could you send me the report before the meeting?",
+    "korean": "회의 전에 보고서를 보내 주실 수 있나요?"
+  },
+  {
+    "id": "business-intermediate-03",
+    "category": "business",
+    "level": "intermediate",
+    "expression": "help",
+    "english": "I would appreciate your help with this task.",
+    "korean": "이 업무를 도와주시면 감사하겠습니다."
+  },
+  {
+    "id": "business-intermediate-04",
+    "category": "business",
+    "level": "intermediate",
+    "expression": "deadline",
+    "english": "We need to finish this project by Friday.",
+    "korean": "금요일까지 이 프로젝트를 끝내야 해요."
+  },
+  {
+    "id": "business-intermediate-05",
+    "category": "business",
+    "level": "intermediate",
+    "expression": "schedule",
+    "english": "Could we move the meeting to next Tuesday?",
+    "korean": "회의를 다음 주 화요일로 옮길 수 있을까요?"
+  },
+  {
+    "id": "business-intermediate-06",
+    "category": "business",
+    "level": "intermediate",
+    "expression": "update",
+    "english": "I will keep you updated on our progress.",
+    "korean": "진행 상황을 계속 알려 드릴게요."
+  },
+  {
+    "id": "business-advanced-01",
+    "category": "business",
+    "level": "advanced",
+    "expression": "meeting",
+    "english": "Before we conclude, I would like to clarify our next steps.",
+    "korean": "마치기 전에 다음 단계를 명확히 하고 싶습니다."
+  },
+  {
+    "id": "business-advanced-02",
+    "category": "business",
+    "level": "advanced",
+    "expression": "report",
+    "english": "The report highlights several opportunities to improve efficiency.",
+    "korean": "이 보고서는 효율성을 높일 수 있는 여러 기회를 강조합니다."
+  },
+  {
+    "id": "business-advanced-03",
+    "category": "business",
+    "level": "advanced",
+    "expression": "help",
+    "english": "Your expertise would be invaluable in resolving this issue.",
+    "korean": "이 문제를 해결하는 데 여러분의 전문성이 큰 도움이 될 것입니다."
+  },
+  {
+    "id": "business-advanced-04",
+    "category": "business",
+    "level": "advanced",
+    "expression": "deadline",
+    "english": "Given the revised scope, we should reassess the deadline.",
+    "korean": "수정된 범위를 고려하면 마감일을 다시 검토해야 합니다."
+  },
+  {
+    "id": "business-advanced-05",
+    "category": "business",
+    "level": "advanced",
+    "expression": "schedule",
+    "english": "Let us coordinate our schedules to avoid any conflicts.",
+    "korean": "일정이 겹치지 않도록 일정을 조율합시다."
+  },
+  {
+    "id": "business-advanced-06",
+    "category": "business",
+    "level": "advanced",
+    "expression": "update",
+    "english": "Please flag any issues that could affect our delivery timeline.",
+    "korean": "납품 일정에 영향을 줄 수 있는 문제가 있으면 알려 주세요."
+  },
+  {
+    "id": "daily-beginner-01",
+    "category": "daily",
+    "level": "beginner",
+    "expression": "morning",
+    "english": "I usually wake up at seven.",
+    "korean": "저는 보통 일곱 시에 일어나요."
+  },
+  {
+    "id": "daily-beginner-02",
+    "category": "daily",
+    "level": "beginner",
+    "expression": "coffee",
+    "english": "Would you like some coffee?",
+    "korean": "커피 좀 드실래요?"
+  },
+  {
+    "id": "daily-beginner-03",
+    "category": "daily",
+    "level": "beginner",
+    "expression": "weekend",
+    "english": "What did you do last weekend?",
+    "korean": "지난 주말에 무엇을 했나요?"
+  },
+  {
+    "id": "daily-beginner-04",
+    "category": "daily",
+    "level": "beginner",
+    "expression": "weather",
+    "english": "It is cold outside today.",
+    "korean": "오늘은 밖이 추워요."
+  },
+  {
+    "id": "daily-beginner-05",
+    "category": "daily",
+    "level": "beginner",
+    "expression": "dinner",
+    "english": "What would you like for dinner?",
+    "korean": "저녁으로 무엇을 먹고 싶나요?"
+  },
+  {
+    "id": "daily-beginner-06",
+    "category": "daily",
+    "level": "beginner",
+    "expression": "rest",
+    "english": "I need a short break.",
+    "korean": "잠깐 쉬어야겠어요."
+  },
+  {
+    "id": "daily-intermediate-01",
+    "category": "daily",
+    "level": "intermediate",
+    "expression": "morning",
+    "english": "I try to leave home early to avoid heavy traffic.",
+    "korean": "차가 많이 막히는 것을 피하려고 일찍 집을 나서려고 해요."
+  },
+  {
+    "id": "daily-intermediate-02",
+    "category": "daily",
+    "level": "intermediate",
+    "expression": "coffee",
+    "english": "Would you mind picking up a coffee for me?",
+    "korean": "제 커피도 하나 사다 주시겠어요?"
+  },
+  {
+    "id": "daily-intermediate-03",
+    "category": "daily",
+    "level": "intermediate",
+    "expression": "weekend",
+    "english": "I spent most of the weekend catching up on sleep.",
+    "korean": "주말 대부분을 밀린 잠을 자며 보냈어요."
+  },
+  {
+    "id": "daily-intermediate-04",
+    "category": "daily",
+    "level": "intermediate",
+    "expression": "weather",
+    "english": "It looks like it might rain later this afternoon.",
+    "korean": "오늘 오후 늦게 비가 올 것 같아요."
+  },
+  {
+    "id": "daily-intermediate-05",
+    "category": "daily",
+    "level": "intermediate",
+    "expression": "dinner",
+    "english": "How about trying the new restaurant near the station?",
+    "korean": "역 근처에 새로 생긴 식당에 가 보는 건 어때요?"
+  },
+  {
+    "id": "daily-intermediate-06",
+    "category": "daily",
+    "level": "intermediate",
+    "expression": "rest",
+    "english": "Taking a short walk helps me clear my head.",
+    "korean": "잠깐 산책하면 머리가 맑아져요."
+  },
+  {
+    "id": "daily-advanced-01",
+    "category": "daily",
+    "level": "advanced",
+    "expression": "morning",
+    "english": "Establishing a consistent morning routine has improved my focus.",
+    "korean": "일정한 아침 습관을 들인 덕분에 집중력이 좋아졌어요."
+  },
+  {
+    "id": "daily-advanced-02",
+    "category": "daily",
+    "level": "advanced",
+    "expression": "coffee",
+    "english": "I have been cutting back on caffeine to sleep better.",
+    "korean": "잠을 더 잘 자려고 카페인 섭취를 줄이고 있어요."
+  },
+  {
+    "id": "daily-advanced-03",
+    "category": "daily",
+    "level": "advanced",
+    "expression": "weekend",
+    "english": "Had I known about the event, I would have joined you.",
+    "korean": "그 행사를 알았더라면 함께 갔을 텐데요."
+  },
+  {
+    "id": "daily-advanced-04",
+    "category": "daily",
+    "level": "advanced",
+    "expression": "weather",
+    "english": "The forecast suggests we should prepare for sudden temperature changes.",
+    "korean": "예보를 보면 갑작스러운 기온 변화에 대비해야 할 것 같아요."
+  },
+  {
+    "id": "daily-advanced-05",
+    "category": "daily",
+    "level": "advanced",
+    "expression": "dinner",
+    "english": "I am open to any restaurant, provided it has vegetarian options.",
+    "korean": "채식 메뉴만 있다면 어느 식당이든 괜찮아요."
+  },
+  {
+    "id": "daily-advanced-06",
+    "category": "daily",
+    "level": "advanced",
+    "expression": "rest",
+    "english": "I find that stepping away briefly often leads to a fresh perspective.",
+    "korean": "잠시 자리를 벗어나면 새로운 관점이 생기는 경우가 많아요."
+  },
+  {
+    "id": "travel-beginner-01",
+    "category": "travel",
+    "level": "beginner",
+    "expression": "reservation",
+    "english": "I have a reservation under Kim.",
+    "korean": "김이라는 이름으로 예약했어요."
+  },
+  {
+    "id": "travel-beginner-02",
+    "category": "travel",
+    "level": "beginner",
+    "expression": "directions",
+    "english": "Where is the nearest station?",
+    "korean": "가장 가까운 역은 어디인가요?"
+  },
+  {
+    "id": "travel-beginner-03",
+    "category": "travel",
+    "level": "beginner",
+    "expression": "ticket",
+    "english": "I would like a ticket to Seoul.",
+    "korean": "서울행 표 한 장 주세요."
+  },
+  {
+    "id": "travel-beginner-04",
+    "category": "travel",
+    "level": "beginner",
+    "expression": "checkin",
+    "english": "What time is check-in?",
+    "korean": "체크인은 몇 시인가요?"
+  },
+  {
+    "id": "travel-beginner-05",
+    "category": "travel",
+    "level": "beginner",
+    "expression": "price",
+    "english": "How much does this cost?",
+    "korean": "이것은 얼마인가요?"
+  },
+  {
+    "id": "travel-beginner-06",
+    "category": "travel",
+    "level": "beginner",
+    "expression": "water",
+    "english": "Could I have some water, please?",
+    "korean": "물 좀 주시겠어요?"
+  },
+  {
+    "id": "travel-intermediate-01",
+    "category": "travel",
+    "level": "intermediate",
+    "expression": "reservation",
+    "english": "Could you confirm my reservation for two nights?",
+    "korean": "이틀 숙박 예약을 확인해 주시겠어요?"
+  },
+  {
+    "id": "travel-intermediate-02",
+    "category": "travel",
+    "level": "intermediate",
+    "expression": "directions",
+    "english": "Could you tell me how to get to the station on foot?",
+    "korean": "역까지 걸어서 어떻게 가는지 알려 주시겠어요?"
+  },
+  {
+    "id": "travel-intermediate-03",
+    "category": "travel",
+    "level": "intermediate",
+    "expression": "ticket",
+    "english": "Is it possible to change my ticket to a later train?",
+    "korean": "더 늦은 기차로 표를 바꿀 수 있나요?"
+  },
+  {
+    "id": "travel-intermediate-04",
+    "category": "travel",
+    "level": "intermediate",
+    "expression": "checkin",
+    "english": "Would it be possible to check in a little earlier?",
+    "korean": "조금 일찍 체크인할 수 있을까요?"
+  },
+  {
+    "id": "travel-intermediate-05",
+    "category": "travel",
+    "level": "intermediate",
+    "expression": "price",
+    "english": "Does the price include breakfast and local taxes?",
+    "korean": "요금에 아침 식사와 현지 세금이 포함되어 있나요?"
+  },
+  {
+    "id": "travel-intermediate-06",
+    "category": "travel",
+    "level": "intermediate",
+    "expression": "water",
+    "english": "Could you bring us a bottle of still water?",
+    "korean": "탄산이 없는 물 한 병 가져다주시겠어요?"
+  },
+  {
+    "id": "travel-advanced-01",
+    "category": "travel",
+    "level": "advanced",
+    "expression": "reservation",
+    "english": "I would like to amend my reservation without incurring a cancellation fee.",
+    "korean": "취소 수수료 없이 예약을 변경하고 싶습니다."
+  },
+  {
+    "id": "travel-advanced-02",
+    "category": "travel",
+    "level": "advanced",
+    "expression": "directions",
+    "english": "Which route would you recommend to avoid the busiest areas?",
+    "korean": "가장 붐비는 지역을 피하려면 어떤 경로를 추천하시나요?"
+  },
+  {
+    "id": "travel-advanced-03",
+    "category": "travel",
+    "level": "advanced",
+    "expression": "ticket",
+    "english": "In the event of a delay, would I be eligible for a refund?",
+    "korean": "지연되는 경우 환불을 받을 수 있나요?"
+  },
+  {
+    "id": "travel-advanced-04",
+    "category": "travel",
+    "level": "advanced",
+    "expression": "checkin",
+    "english": "If early check-in is unavailable, may I leave my luggage here?",
+    "korean": "얼리 체크인이 안 된다면 여기에 짐을 맡겨도 될까요?"
+  },
+  {
+    "id": "travel-advanced-05",
+    "category": "travel",
+    "level": "advanced",
+    "expression": "price",
+    "english": "Could you provide an itemized breakdown of the additional charges?",
+    "korean": "추가 요금의 항목별 내역을 제공해 주시겠어요?"
+  },
+  {
+    "id": "travel-advanced-06",
+    "category": "travel",
+    "level": "advanced",
+    "expression": "water",
+    "english": "Please let us know whether the tap water is safe to drink.",
+    "korean": "수돗물을 마셔도 안전한지 알려 주세요."
+  }
+]

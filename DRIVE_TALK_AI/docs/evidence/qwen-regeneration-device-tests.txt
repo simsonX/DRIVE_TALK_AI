@@ -1,0 +1,11 @@
+
+ai.drivetalk.CountedPlaybackTest:.
+ai.drivetalk.DatabaseTest:.
+ai.drivetalk.PlaybackTest:.
+ai.drivetalk.RegenerationTest:.....
+ai.drivetalk.SafetyTest:.
+ai.drivetalk.SpeechTest:.
+
+Time: 81.155
+
+OK (10 tests)

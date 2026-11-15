@@ -1,0 +1,60 @@
+[
+  {
+    "path": "generate",
+    "request": {
+      "level": "beginner",
+      "category": "business",
+      "expression": "meeting"
+    },
+    "response": {
+      "english": "At the meeting, we discussed the new project.",
+      "korean": "회의에서 새로운 프로젝트에 대해 논의했습니다.",
+      "source": "qwen:qwen2.5:1.5b",
+      "elapsed_ms": 1263,
+      "validation": "schema-and-language-rules; not human-reviewed"
+    },
+    "elapsed_ms": 1282,
+    "success": true
+  },
+  {
+    "path": "generate",
+    "request": {
+      "level": "intermediate",
+      "category": "business",
+      "expression": "meeting"
+    },
+    "response": {
+      "english": "At the business meeting, we discussed strategies for expanding our market share.",
+      "korean": "업무 회의에서 우리는 시장 점유율을 늘리는 전략에 대해 논의했습니다.",
+      "source": "qwen:qwen2.5:1.5b",
+      "elapsed_ms": 1398,
+      "validation": "schema-and-language-rules; not human-reviewed"
+    },
+    "elapsed_ms": 1404,
+    "success": true
+  },
+  {
+    "path": "question",
+    "request": {
+      "level": "beginner",
+      "turn": 0
+    },
+    "response": {
+      "question": "What did you do yesterday?",
+      "source": "qwen:qwen2.5:1.5b",
+      "elapsed_ms": 462,
+      "validation": "schema-and-language-rules; not human-reviewed"
+    },
+    "elapsed_ms": 466,
+    "success": true
+  },
+  {
+    "path": "feedback",
+    "request": {
+      "answer": "I go to work yesterday.",
+      "language": "ko"
+    },
+    "error": "HTTP Error 503: Service Unavailable",
+    "success": false
+  }
+]

@@ -1,0 +1,71 @@
+Applications Memory Usage (in Kilobytes):
+Uptime: 1643651 Realtime: 1643651
+
+** MEMINFO in pid 9731 [ai.drivetalk] **
+                   Pss  Private  Private  SwapPss      Rss     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty    Total     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------   ------
+  Native Heap    13442    13404        0       22    15628    26008    20395     1697
+  Dalvik Heap     5926     5768        0       13    13148    10317     5159     5158
+ Dalvik Other     5843     5576        0        0     6544
+        Stack     1252     1252        0        0     1260
+    Other dev       20        0       20        0      324
+     .so mmap     2571      324       20        4    44740
+    .jar mmap     2239        0       60        0    48168
+    .apk mmap    35166        0    34340        0    38100
+    .ttf mmap      761        0      528        0     1228
+    .dex mmap       11        0        0        0      896
+    .oat mmap       32        0        0        0     1888
+    .art mmap     8065     7808        4        2    23836
+   Other mmap     3604       36     3408        0     5204
+        Memfd       10        0        0        0      608
+      Unknown      568      560        0        3     1992
+        TOTAL    79554    34728    38380       44   203564    36325    25554     6855
+
+ App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:    13580                          36984
+         Native Heap:    13404                          15628
+                Code:    35288                         135556
+               Stack:     1252                           1260
+            Graphics:        0                              0
+       Private Other:     9584
+              System:     6446
+             Unknown:                                   14136
+
+           TOTAL PSS:    79554            TOTAL RSS:   203564       TOTAL SWAP PSS:       44
+
+ Objects
+               Views:        7         ViewRootImpl:        1
+         AppContexts:        6           Activities:        1
+              Assets:       24        AssetManagers:        0
+       Local Binders:       28        Proxy Binders:       71
+       Parcel memory:        8         Parcel count:       33
+    Death Recipients:        3             WebViews:        0
+
+ Native Allocations
+                         Count                       Total(kB)
+                        ------                         ------
+    Other (malloced):      516                             47
+ Other (nonmalloced):      122                             87
+
+ Mapped Bitmaps
+                         Count                       Size(KB)
+                        ------                         ------
+              Mapped:        0                              0
+              Unique:        0                              0
+
+ SQL
+         MEMORY_USED:      191
+  PAGECACHE_OVERFLOW:       62          MALLOC_SIZE:       46
+
+ DATABASES
+      pgsz     dbsz   Lookaside(b) cache hits cache misses cache size  Dbname
+PER CONNECTION STATS
+         4       48             17     0    22     1  /data/user/0/ai.drivetalk/databases/drive-talk.db
+         4        8                    0     0     0    (attached) temp
+         4       48             82     5    23     6  /data/user/0/ai.drivetalk/databases/drive-talk.db (1)
+POOL STATS
+     cache hits  cache misses    cache size  Dbname
+              5            49             7  /data/user/0/ai.drivetalk/databases/drive-talk.db

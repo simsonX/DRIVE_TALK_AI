@@ -1,0 +1,68 @@
+[
+  {
+    "path": "generate",
+    "request": {
+      "level": "beginner",
+      "category": "business",
+      "expression": "meeting"
+    },
+    "response": {
+      "english": "We had a meeting with the team today.",
+      "korean": "오늘 팀과 회의를 했습니다.",
+      "source": "qwen:qwen3:4b",
+      "elapsed_ms": 11365,
+      "validation": "schema-and-language-rules; not human-reviewed"
+    },
+    "elapsed_ms": 11381,
+    "success": true
+  },
+  {
+    "path": "generate",
+    "request": {
+      "level": "intermediate",
+      "category": "business",
+      "expression": "meeting"
+    },
+    "response": {
+      "english": "I need to discuss the project timeline with the team before the next meeting.",
+      "korean": "다음 회의 전 팀과 프로젝트 일정을 논의해야 합니다.",
+      "source": "qwen:qwen3:4b",
+      "elapsed_ms": 1488,
+      "validation": "schema-and-language-rules; not human-reviewed"
+    },
+    "elapsed_ms": 1490,
+    "success": true
+  },
+  {
+    "path": "question",
+    "request": {
+      "level": "beginner",
+      "turn": 0
+    },
+    "response": {
+      "question": "What did you do yesterday?",
+      "source": "qwen:qwen3:4b",
+      "elapsed_ms": 779,
+      "validation": "schema-and-language-rules; not human-reviewed"
+    },
+    "elapsed_ms": 780,
+    "success": true
+  },
+  {
+    "path": "feedback",
+    "request": {
+      "answer": "I go to work yesterday.",
+      "language": "ko"
+    },
+    "response": {
+      "corrected": "I went to work yesterday.",
+      "explanation": "지난날에 일하는 것을 표현할 때 'yesterday'는 과거 시제를 요구하므로 'go'를 과거형 'went'로 수정했습니다.",
+      "uncertain": false,
+      "source": "qwen:qwen3:4b",
+      "elapsed_ms": 2345,
+      "validation": "schema-and-language-rules; not human-reviewed"
+    },
+    "elapsed_ms": 2346,
+    "success": true
+  }
+]

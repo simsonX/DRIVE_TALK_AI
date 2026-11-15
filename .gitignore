@@ -1,0 +1,15 @@
+.DS_Store
+**/.DS_Store
+**/.env
+**/.env.*
+**/*.db
+**/*.db-wal
+**/*.db-shm
+**/*.sqlite
+**/*.sqlite3
+**/*.jks
+**/*.p12
+**/*.pem
+**/keystore.properties
+**/secrets.properties
+**/captures/

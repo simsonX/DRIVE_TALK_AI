@@ -1,0 +1,29 @@
+[
+  {
+    "turn": 0,
+    "response": {
+      "question": "What did you do yesterday?",
+      "source": "qwen:qwen3:4b",
+      "elapsed_ms": 844,
+      "validation": "schema-and-language-rules; not human-reviewed"
+    }
+  },
+  {
+    "turn": 1,
+    "response": {
+      "question": "What is your job?",
+      "source": "qwen:qwen3:4b",
+      "elapsed_ms": 623,
+      "validation": "schema-and-language-rules; not human-reviewed"
+    }
+  },
+  {
+    "turn": 2,
+    "response": {
+      "question": "What did you do this weekend?",
+      "source": "qwen:qwen3:4b",
+      "elapsed_ms": 668,
+      "validation": "schema-and-language-rules; not human-reviewed"
+    }
+  }
+]
