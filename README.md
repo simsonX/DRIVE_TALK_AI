@@ -6,7 +6,7 @@
 
 ## 팀원 빠른 확인
 
-- [설치용 APK 및 릴리스 노트](https://github.com/simsonX/DRIVE_TALK_AI/releases/latest)
+- [설치용 APK 및 릴리스 노트](https://github.com/simsonX/DRIVE_TALK_AI/releases/tag/v0.1.0-prototype)
 - [Android 프로젝트 · 설치/실행 방법](DRIVE_TALK_AI/README.md)
 - [시연 순서](DRIVE_TALK_AI/docs/DEMO.md)
 - [시스템 구조 · SRS · AI 계약](DRIVE_TALK_AI/docs/ARCHITECTURE.md)
